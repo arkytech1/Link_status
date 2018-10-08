@@ -1,0 +1,297 @@
+{
+  "Time": "2018-09-18 09:10:01",
+  "Videos Today": {
+    "airquality": {
+      "Name": "Air Quality Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WQSU_000.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_airport": {
+      "Name": "Airport Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WASU_000.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_europe": {
+      "Name": "Europe Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WWSU_000.mp4",
+      "Result": "SUCCESS"
+    }
+  },
+  "Videos Tomorrow": {
+    "airquality": {
+      "Name": "Tomorrow Air Quality Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WQSU_120.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_airport": {
+      "Name": "Tomorrow Airport Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WASU_120.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_europe": {
+      "Name": "Tomorrow Europe Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WWSU_1s20.mp4",
+      "Result": "FAIL"
+    }
+  },
+  "Final_Result": "FAIL"
+}{
+  "Time": "2018-09-18 09:54:54",
+  "Videos Today": {
+    "airquality": {
+      "Name": "Air Quality Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WQSU_000.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_airport": {
+      "Name": "Airport Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WASU_000.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_europe": {
+      "Name": "Europe Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WWSU_000.mp4",
+      "Result": "SUCCESS"
+    }
+  },
+  "Videos Tomorrow": {
+    "airquality": {
+      "Name": "Tomorrow Air Quality Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WQSU_120.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_airport": {
+      "Name": "Tomorrow Airport Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WASU_120.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_europe": {
+      "Name": "Tomorrow Europe Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WWSU_120.mp4",
+      "Result": "SUCCESS"
+    }
+  },
+  "Final_Result": "SUCCESS"
+}{
+  "Time": "2018-09-18 11:20:31",
+  "Videos Today": {
+    "airquality": {
+      "Name": "Air Quality Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WQSU_000.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_airport": {
+      "Name": "Airport Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WASU_000.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_europe": {
+      "Name": "Europe Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WWSU_000.mp4",
+      "Result": "SUCCESS"
+    }
+  },
+  "Videos Tomorrow": {
+    "airquality": {
+      "Name": "Tomorrow Air Quality Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WQSU_120.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_airport": {
+      "Name": "Tomorrow Airport Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WASU_120.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_europe": {
+      "Name": "Tomorrow Europe Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WWSU_120.mp4",
+      "Result": "SUCCESS"
+    }
+  },
+  "Final_Result": "SUCCESS"
+}{
+  "Time": "2018-09-18 11:28:10",
+  "Videos Today": {
+    "airquality": {
+      "Name": "Air Quality Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WQSU_000.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_airport": {
+      "Name": "Airport Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WASU_000.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_europe": {
+      "Name": "Europe Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WWSU_000.mp4",
+      "Result": "SUCCESS"
+    }
+  },
+  "Videos Tomorrow": {
+    "airquality": {
+      "Name": "Tomorrow Air Quality Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WQSU_120.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_airport": {
+      "Name": "Tomorrow Airport Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WASU_120.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_europe": {
+      "Name": "Tomorrow Europe Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WWSU_120.mp4",
+      "Result": "SUCCESS"
+    }
+  },
+  "Final_Result": "SUCCESS"
+}{
+  "Time": "2018-09-18 11:57:45",
+  "Videos Today": {
+    "airquality": {
+      "Name": "Air Quality Video",
+      "Link": "https://video.euronews.com/smp4/weather/180918_WQSU_000.mp4",
+      "Result": "FAIL"
+    },
+    "meteo_airport": {
+      "Name": "Airport Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WASU_000.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_europe": {
+      "Name": "Europe Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WWSU_000.mp4",
+      "Result": "SUCCESS"
+    }
+  },
+  "Videos Tomorrow": {
+    "airquality": {
+      "Name": "Tomorrow Air Quality Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WQSU_120.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_airport": {
+      "Name": "Tomorrow Airport Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WASU_120.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_europe": {
+      "Name": "Tomorrow Europe Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WWSU_120.mp4",
+      "Result": "SUCCESS"
+    }
+  },
+  "Final_Result": "FAIL"
+}{
+  "Time": "2018-09-18 11:59:57",
+  "Videos Today": {
+    "airquality": {
+      "Name": "Air Quality Video",
+      "Link": "https://video.euronews.com/smp4/weather/180918_WQSU_000.mp4",
+      "Result": "FAIL"
+    },
+    "meteo_airport": {
+      "Name": "Airport Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WASU_000.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_europe": {
+      "Name": "Europe Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WWSU_000.mp4",
+      "Result": "SUCCESS"
+    }
+  },
+  "Videos Tomorrow": {
+    "airquality": {
+      "Name": "Tomorrow Air Quality Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WQSU_120.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_airport": {
+      "Name": "Tomorrow Airport Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WASU_120.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_europe": {
+      "Name": "Tomorrow Europe Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WWSU_120.mp4",
+      "Result": "SUCCESS"
+    }
+  },
+  "Final_Result": "FAIL"
+}{
+  "Time": "2018-09-18 12:00:41",
+  "Videos Today": {
+    "airquality": {
+      "Name": "Air Quality Video",
+      "Link": "https://video.euronews.com/smp4/weather/180918_WQSU_000.mp4",
+      "Result": "FAIL"
+    },
+    "meteo_airport": {
+      "Name": "Airport Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WASU_000.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_europe": {
+      "Name": "Europe Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WWSU_000.mp4",
+      "Result": "SUCCESS"
+    }
+  },
+  "Videos Tomorrow": {
+    "airquality": {
+      "Name": "Tomorrow Air Quality Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WQSU_120.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_airport": {
+      "Name": "Tomorrow Airport Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WASU_120.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_europe": {
+      "Name": "Tomorrow Europe Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/180918_WWSU_120.mp4",
+      "Result": "SUCCESS"
+    }
+  },
+  "Final_Result": "FAIL"
+}{
+  "Time": "2018-10-08 12:29:56",
+  "Videos Today": {
+    "airquality": {
+      "Name": "Air Quality Video",
+      "Link": "https://video.euronews.com/smp4/weather/181008_WQSU_000.mp4",
+      "Result": "FAIL"
+    },
+    "meteo_airport": {
+      "Name": "Airport Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/181008_WASU_000.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_europe": {
+      "Name": "Europe Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/181008_WWSU_000.mp4",
+      "Result": "SUCCESS"
+    }
+  },
+  "Videos Tomorrow": {
+    "airquality": {
+      "Name": "Tomorrow Air Quality Video",
+      "Link": "https://video.euronews.com/mp4/weather/181008_WQSU_120.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_airport": {
+      "Name": "Tomorrow Airport Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/181008_WASU_120.mp4",
+      "Result": "SUCCESS"
+    },
+    "meteo_europe": {
+      "Name": "Tomorrow Europe Weather Video",
+      "Link": "https://video.euronews.com/mp4/weather/181008_WWSU_120.mp4",
+      "Result": "SUCCESS"
+    }
+  },
+  "Final_Result": "FAIL"
+}

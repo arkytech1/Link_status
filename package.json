@@ -1,0 +1,30 @@
+{
+  "name": "checkurl",
+  "version": "1.0.0",
+  "description": "checking url",
+  "main": "index.js",
+  "dependencies": {
+    "rsvp": "^4.8.2"
+  },
+  "devDependencies": {
+    "async": "^2.6.0",
+    "nodejs-nodemailer-outlook": "^1.0.8",
+    "nodemailer": "^4.6.3",
+    "sendmail": "^1.4.1",
+    "url-exists": "^1.0.3",
+    "node-statsd-client": "^1.0.4",
+    "statsd-client": "^0.4.2"
+
+
+  },
+  "scripts": {
+    "test": "test",
+    "run": "index.js"
+  },
+  "keywords": [
+    "check",
+    "url"
+  ],
+  "author": "Arfaoui Khaled",
+  "license": "ISC"
+}
